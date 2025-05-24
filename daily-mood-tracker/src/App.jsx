@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 
-const moods = ["😊 Happy", "😢 Sad", "😠 Angry", "😌 Calm", "😐 Neutral"];
+const moods = ["Lovely😍","😊 Happy", "😢 Sad", "😠 Angry", "😌 Calm", "😐 Neutral"];
 
 function App() {
   const [mood, setMood] = useState("");
